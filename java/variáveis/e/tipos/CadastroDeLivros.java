@@ -1,6 +1,5 @@
-package br.com.praticando.java;
+package br.com.praticando.java.variáveis.e.tipos;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class CadastroDeLivros {

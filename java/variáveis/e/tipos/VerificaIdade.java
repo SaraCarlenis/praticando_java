@@ -1,4 +1,4 @@
-package br.com.praticando.java;
+package br.com.praticando.java.variáveis.e.tipos;
 
 public class VerificaIdade {
         public static void main(String[] args) {

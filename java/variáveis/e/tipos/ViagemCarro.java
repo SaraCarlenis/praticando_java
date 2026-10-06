@@ -1,4 +1,4 @@
-package br.com.praticando.java;
+package br.com.praticando.java.variáveis.e.tipos;
 
 import java.util.Scanner;
 
