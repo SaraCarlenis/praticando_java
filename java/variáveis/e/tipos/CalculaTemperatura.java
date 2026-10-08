@@ -11,6 +11,6 @@ public class CalculaTemperatura {
 
         double fahrenheit = (celsius * 9 / 5.0) + 32;
 
-        System.out.println("A temperatura em graus Fahrenheit é: " + fahrenheit);
+        System.out.printf("A temperatura em graus Fahrenheit é: %.2f%n", fahrenheit);
     }
 }
